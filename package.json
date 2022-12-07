@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DiegoQQ/webBook/issues"
   },
-  "homepage": "https://github.com/DiegoQQ/webBook#readme"
+  "homepage": "https://github.com/DiegoQQ/webBook#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
